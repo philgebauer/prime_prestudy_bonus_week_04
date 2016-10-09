@@ -6,4 +6,4 @@ function splinter (one, two) {
 
 };
 
-splinter (1,2);
+console.log(splinter(1,2));
